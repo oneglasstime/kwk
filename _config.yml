@@ -1,0 +1,40 @@
+# Dependencies
+#markdown:         redcarpet
+#pygments:         true
+
+# Permalinks
+permalink:            pretty        #'/:title/'
+relative_permalinks:  false
+
+# Setup
+title:            一杯时光半生缘
+tagline:          '老板，给我一杯时光，让我忘掉忧伤！'
+description:      '老板，给我一杯时光，让我忘掉忧伤！ Made by <a href="https://twitter.com/mdo" target="_blank">@kentwang</a>.'
+url:              https://oneglasstime.github.io/
+baseurl:          ''
+
+# About/contact
+author:
+  name:           
+  url:            https://oneglasstime.github.io/
+
+#Issues
+newest:             2016.11.05
+issue :
+       num_capital: Nov 5TH-Nov 11TH, 2016
+       num_small:   Nov 5th-Nov 11th 2016
+       num_related: 05 Nov 2016
+       size:        21.5
+       desc:        "America's best hope"
+
+paginate:         5
+
+safe:             false
+
+# Comment
+comment:
+    #disqus: 
+    duoshuo:  kentwang
+
+#github:
+  #repo:           https://github.com/poole/lanyon
